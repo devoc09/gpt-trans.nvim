@@ -45,3 +45,6 @@ let g:trans_lang_output = 'float'
 ```
 
 A Floating window is automatically hide when cursor is moved.
+
+## Thanks
+- Inspired by [utahta/trans.nvim](https://github.com/utahta/trans.nvim).
