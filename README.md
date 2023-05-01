@@ -27,7 +27,7 @@ For more information [here](https://openai.com/pricing).
 
 For vim-plug
 ```viml
-Plug 'devoc09/gpt_trans.nvim', {'do': 'make'}
+Plug 'devoc09/gpt-trans.nvim', {'do': 'make'}
 ```
 
 ## Settings
