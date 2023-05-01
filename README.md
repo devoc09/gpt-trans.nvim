@@ -3,10 +3,7 @@
 gpt_trans.nvim is a plugin for Neovim to translate English to Japanese with GPT3.5-tarbo.
 
 ## Required
-
-You must first set up authentication by creating a API Key or service account of GCP.
-
-Then you need to install the [Go](https://go.dev/doc/install).
+Install the [Go](https://go.dev/doc/install).
 
 Author using the following version.
 ```
