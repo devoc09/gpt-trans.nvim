@@ -2,6 +2,8 @@
 
 gpt_trans.nvim is a plugin for Neovim to translate English to Japanese with GPT3.5-tarbo.
 
+![gpt-trans nvim](https://user-images.githubusercontent.com/50615605/235466220-99a9aab9-fdfd-48e1-a749-c5ed2d41c8ca.gif)
+
 ## Required
 Install the [Go](https://go.dev/doc/install).
 
